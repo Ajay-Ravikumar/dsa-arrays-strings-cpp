@@ -1,4 +1,4 @@
-/* check_anagram.cpp */
+/* Check if Two Strings are Anagrams */
 
 #include <iostream>
 #include <string>
